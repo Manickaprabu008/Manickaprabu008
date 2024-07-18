@@ -23,6 +23,9 @@ I am a passionate data analyst with a strong background in SQL, Tableau, Power B
 - **MS Excel**: Advanced user for data analysis, reporting, and visualization.
 - **GitHub**: Experience in version control and collaborative coding.
 
+### Technologies I work with
+
+
 ## Projects
 
 ### [Project Name]
